@@ -10,7 +10,7 @@ It is a simple game where the player must smash the bricks by deflecting a bounc
 - Controls:
   - Pressing the Left and Right arrows moves the paddle
 - Allowed attempts:
-  - You just jave 3 tries to finish the game, if you can't win on one of these 3, you will not be able to play again. 
+  - You just have 3 tries to finish the game, if you can't win on one of these 3, you will not be able to play again. 
 
 https://user-images.githubusercontent.com/91792756/144722028-0e89a715-0cb2-42ad-ab5f-7e09626406fb.mp4
 
