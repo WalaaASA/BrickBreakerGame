@@ -1,5 +1,5 @@
 # Brick Breaker Game project
-This game is presented as a project for the Java course.
+This game is presented as a project for Java course.
 The main goal of this project is to practice working on GUI development
 so I worked on previously done codes by other programmers, then I tried to customize it and add slight changes
 
