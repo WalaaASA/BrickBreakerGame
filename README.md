@@ -8,7 +8,7 @@ It is a simple game where the player must smash the bricks by deflecting a bounc
 
 ## How To Play?
 - Controls:
-  - Pressing the Left and Right arrows moves the paddle
+  - Pressing the Left and Right arrow keys moves the paddle
 - Allowed attempts:
   - You just have 3 tries to finish the game, if you can't win on one of these 3, you will not be able to play again. 
 
